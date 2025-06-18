@@ -1,0 +1,3 @@
+Proxy installation --      https://phoenixnap.com/kb/setup-install-squid-proxy-server-ubuntu    
+sftp installtion --        https://www.ionos.com/digitalguide/server/configuration/set-up-an-ubuntu-sftp-server/
+
